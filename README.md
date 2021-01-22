@@ -2,7 +2,7 @@
 
 I'm a software engineer with experience in distributed systems, infrastructure, and privacy preservation techniques.
 
-I also love long walks on the beach, interior design, and street food.
+I also love long walks on the beach, Architectural Digest, and nonfiction.
 
 My open source projects are hosted in my GitHub profile.
 
